@@ -1,0 +1,78 @@
+mxw:
+
+KNN sum EMG: 0.55033
+SVM sum EMG: 0.675
+LDA sum EMG: 0.625
+ 
+KNN sum Amode: 0.924
+SVM sum Amode: 0.90567
+LDA sum Amode: 0.91967
+ 
+KNN sum fusion: 0.94167
+SVM sum fusion: 0.93967
+LDA sum fusion: 0.93333
+
+lyz:
+KNN sum EMG: 0.22733
+SVM sum EMG: 0.25533
+LDA sum EMG: 0.24733
+ 
+KNN sum Amode: 0.36633
+SVM sum Amode: 0.34533
+LDA sum Amode: 0.34367
+ 
+KNN sum fusion: 0.375
+SVM sum fusion: 0.34067
+LDA sum fusion: 0.35433
+
+KNN sum EMG: 0.689
+SVM sum EMG: 0.75
+LDA sum EMG: 0.69433
+ 
+KNN sum Amode: 0.828
+SVM sum Amode: 0.809
+LDA sum Amode: 0.80833
+ 
+KNN sum fusion: 0.88833
+SVM sum fusion: 0.879
+LDA sum fusion: 0.88033
+
+wyx:
+KNN sum EMG: 0.696
+SVM sum EMG: 0.795
+LDA sum EMG: 0.74833
+ 
+KNN sum Amode: 0.91467
+SVM sum Amode: 0.89533
+LDA sum Amode: 0.88833
+ 
+KNN sum fusion: 0.98367
+SVM sum fusion: 0.98667
+LDA sum fusion: 0.98
+
+fsy:
+
+KNN sum EMG: 0.50867
+SVM sum EMG: 0.63867
+LDA sum EMG: 0.66067
+ 
+KNN sum Amode: 0.895
+SVM sum Amode: 0.89733
+LDA sum Amode: 0.91533
+ 
+KNN sum fusion: 0.951
+SVM sum fusion: 0.947
+LDA sum fusion: 0.96767
+
+zht:
+KNN sum EMG: 0.66267
+SVM sum EMG: 0.77433
+LDA sum EMG: 0.688
+ 
+KNN sum Amode: 0.86033
+SVM sum Amode: 0.743
+LDA sum Amode: 0.78667
+ 
+KNN sum fusion: 0.95533
+SVM sum fusion: 0.945
+LDA sum fusion: 0.96033

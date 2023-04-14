@@ -1,0 +1,66 @@
+ajk:
+KNN emg: 0.711
+SVM emg: 0.73833
+LDA emg: 0.689
+KNN amode: 0.92433
+SVM amode: 0.912
+LDA amode: 0.949
+KNN fusion: 0.93967
+SVM fusion: 0.943
+LDA fusion: 0.96833
+
+
+mxw:
+KNN emg: 0.738
+SVM emg: 0.854
+LDA emg: 0.84
+KNN amode: 0.953
+SVM amode: 0.95733
+LDA amode: 0.955
+KNN fusion: 0.96967
+SVM fusion: 0.95567
+LDA fusion: 0.96167
+
+lyz:
+KNN emg: 0.88467
+SVM emg: 0.89667
+LDA emg: 0.88433
+KNN amode: 0.915
+SVM amode: 0.89767
+LDA amode: 0.921
+KNN fusion: 0.949
+SVM fusion: 0.96667
+LDA fusion: 0.97433
+
+wyx:
+KNN emg: 0.76467
+SVM emg: 0.84567
+LDA emg: 0.82067
+KNN amode: 0.96533
+SVM amode: 0.97733
+LDA amode: 0.96767
+KNN fusion: 0.985
+SVM fusion: 0.98967
+LDA fusion: 0.991
+
+zht:
+KNN emg: 0.77533
+SVM emg: 0.83767
+LDA emg: 0.785
+KNN amode: 0.94233
+SVM amode: 0.905
+LDA amode: 0.93167
+KNN fusion: 0.96967
+SVM fusion: 0.95067
+LDA fusion: 0.98733
+
+fsy:
+KNN emg: 0.721
+SVM emg: 0.80333
+LDA emg: 0.789
+KNN amode: 0.939
+SVM amode: 0.95233
+LDA amode: 0.974
+KNN fusion: 0.968
+SVM fusion: 0.97067
+LDA fusion: 0.982
